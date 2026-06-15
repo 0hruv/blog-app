@@ -1,3 +1,5 @@
+Intern ID: CTO19
+
 # Full-Stack Blog with Auth
 
 This project was developed as part of my **internship**.
